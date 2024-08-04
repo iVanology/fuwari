@@ -1,0 +1,65 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v173)
+"   /Users/ivan
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+ivan/
+| .Trash/
+| .cache/
+| .config/
+| .docker/
+| .kodi/
+| .local/
+| .matplotlib/
+| .npm/
+| .oh-my-zsh/
+| .ollama/
+| .pyenv/
+| .ssh/
+| .tmux/
+| .vscode/
+| .zsh_sessions/
+| Applications/
+| Desktop/
+| Documents/
+| Downloads/
+| Jts/
+| Library/
+| Movies/
+| Music/
+| Pictures/
+| Postman/
+| Public/
+| Virtual Machines.localized/
+| Zotero/
+| ntws/
+| powerlevel10k/
+| .CFUserTextEncoding
+| .DS_Store
+| .bash_history
+| .bashrc
+| .gitconfig
+| .hwid
+| .lesshst
+| .node_repl_history
+| .p10k.zsh
+| .python_history
+| .tmux.conf
+| .viminfo
+| .wezterm.lua
+| .z
+| .zcompdump-mac_mini-5.9
+| .zcompdump-mac_mini-5.9.zwc
+| .zprofile
+| .zsh_history
+| .zshrc
+| .zshrc.pre-oh-my-zsh
+| NetrwTreeListing
+| Pipfile
+| ivan.itermcolors
+| nowip_hosts.txt
+| player.list
+| .bash_profile.swp
